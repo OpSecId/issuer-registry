@@ -4,10 +4,10 @@
     "updated": "2020-12-02T02:32:16+0000"
   },
   "registry": {
-    "did:web:identifier.me:demo": {
-      "name": "",
-      "location": "",
-      "url": ""
+    "did:web:orgbook.gov.bc.ca:issuer:bcgov-mines-permitting": {
+      "name": "Ministry of Energy, Mines and Low-carbon Innovation",
+      "location": "Canada, BC",
+      "url": "https://orgbook.gov.bc.ca"
     }
   }
 }
