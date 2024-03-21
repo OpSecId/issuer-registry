@@ -1,13 +1,33 @@
 {
   "meta": {
-    "created": "2020-12-02T02:32:16+0000",
-    "updated": "2022-05-25T12:40:00+0000"
+    "created": "2024-03-21T18:59:00+0000",
+    "updated": "2024-03-21T18:59:00+0000"
   },
   "registry": {
-    "did:web:identifier.me:demo": {
-      "name": "",
-      "location": "",
-      "url": ""
-    }
+    "did:web:orgbook.gov.bc.ca:issuer:bcregistries": {
+      "name": "BC Corporate Registry",
+      "location": "Canada, BC",
+      "url": "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services/bc-registries-online-services"
+    },
+    "did:web:orgbook.gov.bc.ca:issuer:lclb": {
+      "name": "Liquor and Cannabis Regulation Branch",
+      "location": "Canada, BC",
+      "url": "orgbook.gov.bc.ca"
+    },
+    "did:web:orgbook.gov.bc.ca:issuer:bcgov-mines-permitting": {
+      "name": "Ministry of Energy, Mines and Low-carbon Innovation",
+      "location": "Canada, BC",
+      "url": "orgbook.gov.bc.ca"
+    },
+    "did:web:orgbook.gov.bc.ca:issuer:iafbc": {
+      "name": "Investment Agriculture Foundation BC",
+      "location": "Canada, BC",
+      "url": "orgbook.gov.bc.ca"
+    },
+    "did:web:orgbook.gov.bc.ca:issuer:ghg-emissions-reporting": {
+      "name": "Ministry of Environment and Climate Change Strategy",
+      "location": "Canada, BC",
+      "url": "orgbook.gov.bc.ca"
+    },
   }
 }
